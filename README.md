@@ -25,7 +25,7 @@ Lizenz
 Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe LICENSE.md für Details.
 
 Mitwirkende
-DEIN NAME deine@email.com
+DEIN NAME Johann Kramer.
 Wir freuen uns über Beiträge! Bitte lesen Sie die Mitwirkungsrichtlinien für Details.
 
 Fehler melden
