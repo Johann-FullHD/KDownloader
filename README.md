@@ -18,23 +18,22 @@ Dieses Python-Programm ermöglicht es Benutzern, Videos von YouTube herunterzula
 - pytube-Bibliothek
 - tkinter-Bibliothek
 
-Anpassung
+## Anpassung
 Du kannst die Unterstützung für weitere Video- und Audioformate hinzufügen oder die Benutzeroberfläche anpassen, um deinen Anforderungen gerecht zu werden.
 
-Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe LICENSE.md für Details.
+## Lizenz
+Dieses Projekt ist unter der [MIT License](https://opensource.org/licenses/MIT) lizenziert - siehe LICENSE.md für Details.
 
-Mitwirkende
-DEIN NAME Johann Kramer.
-Wir freuen uns über Beiträge! Bitte lesen Sie die Mitwirkungsrichtlinien für Details.
+## Mitwirkende
+Johann Kramer
 
-Fehler melden
+## Fehler melden
 Wenn Sie Fehler oder Probleme finden, melden Sie diese bitte über das Issue-Tracker.
 
-Changelog
+## Changelog
 Erfahren Sie mehr über die neuesten Updates und Änderungen in der CHANGELOG.md-Datei.
 
-Support
-Bei Fragen oder Problemen kontaktieren Sie uns bitte unter kjohann1908@gmail.com
+## Support
+Bei Fragen oder Problemen kontaktieren Sie uns bitte unter [kjohann1908@gmail.com](mailto:kjohann1908@gmail.com)
 
-Vielen Dank, dass Sie Video Downloader verwenden!
+Vielen Dank, dass Sie KDownloader verwenden!
