@@ -1,39 +1,61 @@
 # KDownloader
 
-## Beschreibung
+Simple, efficient, and easy-to-use, KDownloader is your go-to tool for downloading videos from YouTube. With version 1.1, you can now download videos faster, manage batch downloads, and have greater flexibility with pause and resume functions, among other improvements.
 
-Dieses Python-Programm ermöglicht es Benutzern, Videos von YouTube herunterzuladen und bietet die Möglichkeit, den Audiotrack oder das Video in verschiedenen Formaten auszuwählen.
+## Features
 
-## Funktionen
+- Download YouTube videos in various resolutions and formats.
+- Extract the audio track from videos in multiple audio formats.
+- Manage your downloads history and access downloaded files with ease.
+- Directly open downloaded files after the download completes.
+- User-friendly interface with customization options for advanced users.
+- Batch downloading feature for handling multiple downloads simultaneously.
+- Improved download speeds for a quicker downloading experience.
+- Pause and Resume downloads to prioritize bandwidth or recover from network interruptions.
 
-- Herunterladen von YouTube-Videos in verschiedenen Auflösungen und Formaten.
-- Herunterladen des Audiotracks eines Videos in verschiedenen Audioformaten.
-- Historie der heruntergeladenen Videos.
-- Direktes Öffnen der heruntergeladenen Dateien nach dem Download.
-- Einfache Benutzeroberfläche mit Anpassungsoptionen.
-
-## Voraussetzungen
+## Requirements
 
 - Python 3.x
-- pytube-Bibliothek
-- tkinter-Bibliothek
+- `pytube` library
+- `tkinter` library for the GUI
 
-## Anpassung
-Du kannst die Unterstützung für weitere Video- und Audioformate hinzufügen oder die Benutzeroberfläche anpassen, um deinen Anforderungen gerecht zu werden.
+## Installation
 
-## Lizenz
-Dieses Projekt ist unter der [MIT License](https://opensource.org/licenses/MIT) lizenziert - siehe LICENSE.md für Details.
+To get started with KDownloader:
 
-## Mitwirkende
-Johann Kramer
+1. Ensure that Python 3.x is installed on your system.
+2. Install the necessary libraries using pip:
+   ```
+   pip install pytube tkinter
+   ```
+3. Clone the KDownloader repository:
+   ```
+   git clone https://github.com/Johann-FullHD/KDownloader.git
+   ```
+4. Navigate into the cloned directory and run the program:
+   ```
+   cd KDownloader python kdownloader.py
+   ```
 
-## Fehler melden
-Wenn Sie Fehler oder Probleme finden, melden Sie diese bitte über das Issue-Tracker.
+## Customization
+
+You can customize the tool to support additional video and audio formats, tailor the user interface to meet your requirements, and tweak the settings for optimal performance.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE.md file for details.
+
+## Contributing
+
+Contributions are welcome to improve the application's functionality, extend support for other operating systems, or enhance the user interface. You can contribute by submitting a [pull reques](thttps://github.com/Johann-FullHD/KDownloader/pulls) or reporting bugs and suggestions in the [issue tracker](https://github.com/Johann-FullHD/KDownloader/issues). For professional inquiries or potential collaborations, please get in touch via email.
 
 ## Changelog
-Erfahren Sie mehr über die neuesten Updates und Änderungen in der CHANGELOG.md-Datei.
 
-## Support
-Bei Fragen oder Problemen kontaktieren Sie uns bitte unter [kjohann1908@gmail.com](mailto:kjohann1908@gmail.com)
+Stay up to date with the latest updates and changes by checking out the [CHANGELOG.md](CHANGELOG.md) file.
 
-Vielen Dank, dass Sie KDownloader verwenden!
+## Support | Contact Information
+
+For any additional questions or feedback, feel free to reach out to me:
+- **Johann Kramer**
+- **Email**: [kjohann1908@gmail.com](mailto:kjohann1908@gmail.com)
+- **Instagram:** [trainspotter.dresden](https://www.instagram.com/trainspotter.dresden/)
